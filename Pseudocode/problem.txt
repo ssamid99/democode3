@@ -1,0 +1,24 @@
+1) 4 reqemli eded verilib.Bu ededin eveline 7 reqemini , 
+axirinada 8 reqemini artir. Example1: 333 = 73338
+
+INPUT: a = 1234
+      
+
+OUTPUT: 712348
+------------------------------------------------------------------
+
+2) 3 reqemli eded verilib.Bu ededin axirina hemin 
+ededdin ozunu yapishdir.example: 333 = 333333;
+
+INPUT: a= 123
+      
+
+OUTPUT: 123123
+----------------------------------------------------------------
+
+3) 5 reqemli eded verilib.Bu ededin evvel 18 % sonra ise 3 % tap.
+
+INPUT: a=12345
+
+OUTPUT: 66.663
+

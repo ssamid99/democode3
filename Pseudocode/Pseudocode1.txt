@@ -1,0 +1,21 @@
+program Add Numbers
+
+READ a=1234
+READ b=70000
+READ c=10
+READ d=8
+
+IF a>=1000 and a<10000 THAN
+INIT e = a add b 
+INIT f = e multiplication c
+INIT g = f add d
+SHOW g
+
+ELSE 
+
+PRINT "Shertlere Uygun Deyil"
+
+ENDIF
+
+END Program
+

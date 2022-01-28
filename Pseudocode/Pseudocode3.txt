@@ -1,0 +1,16 @@
+﻿Program Calculate
+
+GET a=12345
+GET b=0.18
+GET c=0.03
+
+IF a>=10000 and a<100000 THAN
+INIT d=a multiplication b
+INIT e=d multiplication c
+PRINT e
+
+ELSE
+PRINT "shertlere uygun deyil"
+ENDIF
+
+END Program

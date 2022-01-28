@@ -1,0 +1,15 @@
+﻿Program Add Number Itself
+
+OBTAIN a=123
+OBTAIN b=1000
+
+IF a>=100 and a<1000 THAN
+INIT c=a multiplication b
+INIT d=c add a
+DISPLAY d
+
+ELSE
+DISPLAY "SHERTLERE UYGUN DEYIL"
+ENDIF
+
+END Program
