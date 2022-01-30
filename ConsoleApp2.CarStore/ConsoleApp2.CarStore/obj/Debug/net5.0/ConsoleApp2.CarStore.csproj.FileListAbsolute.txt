@@ -1,0 +1,16 @@
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ConsoleApp2.CarStore.exe
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ConsoleApp2.CarStore.deps.json
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ConsoleApp2.CarStore.runtimeconfig.json
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ConsoleApp2.CarStore.runtimeconfig.dev.json
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ConsoleApp2.CarStore.dll
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ref\ConsoleApp2.CarStore.dll
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\bin\Debug\net5.0\ConsoleApp2.CarStore.pdb
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.AssemblyInfo.cs
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.dll
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ref\ConsoleApp2.CarStore.dll
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.pdb
+C:\Users\12345\Desktop\Visual Code\ConsoleApp2.CarStore\ConsoleApp2.CarStore\obj\Debug\net5.0\ConsoleApp2.CarStore.genruntimeconfig.cache

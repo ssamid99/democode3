@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f4a5d8d-f599-4188-948b-6a8d8ce44345": {
+      "ProjectGuid": "1f4a5d8d-f599-4188-948b-6a8d8ce44345",
+      "DisplayName": "ConsoleApp2.CarStore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
